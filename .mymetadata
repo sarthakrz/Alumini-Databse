@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="RSEAC"
+  id="myeclipse.1198389755500"
+  context-root="/AlumniofCollege"
+  j2ee-spec="1.4"
+  archive="RSEAC.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
